@@ -47,4 +47,4 @@ PlatformInfo：
   如果你乐意的话，也可以用MacPro6,1，需要再强调一下的是，注意更换对应的USBMap.kext，两个版本的文件放在Kexts->off里面，用的时候改一下名就行了。
 
 
-*更多知识查询dortania.github.io
+*更多知识查询 dortania.github.io
