@@ -3,7 +3,7 @@
 OpenCore版本0.7.6，编辑config.list推荐ProperTree，如果用OCC，务必使用对应版本。
 
 硬件：
-平台：HP Z440 （X99）
+HP Z440 （X99）
 处理器：E5-1650v3 （Haswell-E）
 显卡：Nvdia Quadro K4200 (GK104）
 无线网卡：Fenvi BCD94360CD
