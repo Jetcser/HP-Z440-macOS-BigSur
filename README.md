@@ -1,6 +1,5 @@
 # HP-Z440-macOS-Catalina
 
-说明:
 OpenCore版本0.7.6，编辑config.list推荐ProperTree，如果用OCC，务必使用对应版本。
 
 硬件：
